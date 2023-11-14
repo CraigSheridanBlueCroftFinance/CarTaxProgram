@@ -1,8 +1,8 @@
 Server = 'tcp:bluecroftsql-server.database.windows.net'
 Port = 1433
 Database = 'CarStatus'
-UserName = 'bluecroft'
-Password = 'BlueBalloon453'
+UserName = ''
+Password = ''
 Encrypt="yes"
 TrustServerCertificate="no"
 ConnectionTimeout=30
